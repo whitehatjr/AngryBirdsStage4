@@ -1,2 +1,2 @@
-# AngryBirdsStage4
-Angry Birds Stage 4 Reference
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
